@@ -1,0 +1,17 @@
+.bodyindex{
+    width: 100vw;
+    height: 100vh;
+    background-image: url(../img/back.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow: hidden;;
+}
+
+footer{
+    background-color: rgb(105, 105, 105);
+    border-top: 1px solid rgb(136, 3, 3);
+    height: 5vh;
+    width: 100%;
+    margin-top: 10vh;
+}
